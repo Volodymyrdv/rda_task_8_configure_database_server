@@ -59,6 +59,8 @@ myisam-recover-options  = BACKUP
 #
 # Error log - should be very few entries.
 #
+# This setting defines the file where MySQL logs errors, warnings, and critical events.
+#
 # log_error = /var/log/mysql/error.log
 #
 # Here you can see queries with especially long duration
